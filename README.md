@@ -13,4 +13,12 @@ open AI research compute it could not otherwise afford.
 ## Plan
 - [plan/scope.md](plan/scope.md): goals, non-goals, who it's for, the hard problems
 - [plan/phases.md](plan/phases.md): phases 0–3 with exit tests
-- [plan/open-items.md](plan/open-items.md): decisions waiting for the user, things to check
+- [plan/open-items.md](plan/open-items.md): open decisions and things to check
+
+## Get involved
+This is a shared project and contributions are welcome, especially to the phase 0 survey.
+See [CONTRIBUTING.md](CONTRIBUTING.md). Questions and ideas go in
+[Discussions](https://github.com/dluffyteddyber/PublicHarness/discussions).
+
+## Licence
+[Apache-2.0](LICENSE).
